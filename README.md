@@ -8,7 +8,7 @@ A  python aplication built with tkinter that generates secure random passwords.
 
 ## Requirements
 
-> Python 3.x Tkinter (comes pre-installed with most Python distributions)
+> Python 3.x Tkinter (comes pre-installed with most Python distributions).
 
 ---
 
